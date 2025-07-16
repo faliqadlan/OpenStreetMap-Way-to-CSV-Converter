@@ -6,8 +6,6 @@ This tool runs entirely in your browser, so no local Python installation is requ
 
 [![Run in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/faliqadlan/OpenStreetMap-Way-to-CSV-Converter/blob/main/OSM_API_to_CSV_Converter.ipynb)
 
-*(**Note**: You'll need to replace the URL above with the actual link to your notebook on GitHub after you upload it.)*
-
 ---
 
 ## Key Features
