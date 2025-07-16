@@ -4,7 +4,7 @@ A simple yet powerful Google Colab notebook to download geographic data for spec
 
 This tool runs entirely in your browser, so no local Python installation is required. It's designed to be accessible for everyone, including users with **no programming experience**.
 
-[![Run in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/Your_Notebook_Name.ipynb)
+[![Run in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/faliqadlan/OpenStreetMap-Way-to-CSV-Converter/blob/main/OSM_API_to_CSV_Converter.ipynb)
 
 *(**Note**: You'll need to replace the URL above with the actual link to your notebook on GitHub after you upload it.)*
 
