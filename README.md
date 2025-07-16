@@ -57,7 +57,3 @@ Follow these steps to get your CSV files.
 <img width="442" height="296" alt="image" src="https://github.com/user-attachments/assets/0378ce8b-6d40-4026-b9b6-2e713180da59" />
 
 ---
-
-## License
-
-This project is licensed under the **MIT License**.
